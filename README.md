@@ -4,7 +4,7 @@ Este repositório tem como objetivo reunir as atividades da Disciplina de Labora
 <strong>Professor: Jucimar Maia da Silva Junior.</strong>
 
 <h2>Linguagem Utilizada</h2>
-<strong>Python</strong>
+<strong>Python 3.10.8</strong>
 
 <h2>Exercícios:</h2>
 - Atividade 002: Python Turtle
