@@ -7,4 +7,4 @@ Este repositório tem como objetivo reunir as atividades da Disciplina de Labora
 <strong>Python 3.10.8</strong>
 
 <h2>Exercícios:</h2>
-+ Atividade 002: Python Turtle
+* Atividade 002: Python Turtle
