@@ -9,3 +9,6 @@ Este repositório tem como objetivo reunir as atividades da disciplina de Labora
 <h2>Exercícios:</h2
 <ul>
 <li> Atividade 002: Python Turtle </li>
+<li> Atividade 003: Refatorar código do Pong em Turtle </li>
+<li> Atividade 004: Breakout em Python Turtle</li>
+</ul>
